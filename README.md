@@ -1,4 +1,4 @@
-# Automobile_Spare_Parts_Sales_Analysis
+# Automobile-Spare-Parts-Sales-Analysis
 Project Overview:
 This project focuses on analyzing an automobile spares dataset to derive insights related to sales trends, client preferences, product lines, and warehouse performance. The dataset contains information about order numbers, dates, warehouses, client types, product lines, quantities, unit prices, total sales, payment methods, and payment fees. The analysis aims to answer specific queries related to sales, product pricing, client preferences, and warehouse performance.
 
